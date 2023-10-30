@@ -1,8 +1,8 @@
-# Walk-Cycle: Human Gait Tracking System
+# Walk-Cycle: Human Gait Tracking System 🚶‍♂️📊
 
 This project combines hardware and software to track human gait using accelerometers and an Arduino. It provides a Java-based graphical interface for real-time data visualization.
 
-## Components
+## Components 🧩
 
 ### [Proyecto_Atmel (C Code for Arduino)](Proyecto_Atmel/Proyecto_Atmel)
 
@@ -12,11 +12,11 @@ This project combines hardware and software to track human gait using accelerome
 
 ### [JavaArduino (Java Graphical Interface)](JAVA/JavaArduino)
 
-The JavaArduino folder contains the graphical interface for the application. Within this folder, the project accomplishes the following tasks:
+The JavaArduino folder contains the graphical interface for the application. Within this folder, the project accomplishes the following tasks: 📟📷
 
 - Establishes communication with the Arduino via the serial port.
 - Receives real-time data from the Arduino.
-- Displays the knee angle, current gait phase, and a visual representation of the current gait phase in GUI window.
+- Displays the knee angle, current gait phase, and a visual representation of the current gait phase in a GUI window.
 
 ### [Simulations (Proteus)](Proteus)
 
@@ -26,9 +26,8 @@ This folder contains simulations of the hardware setup, including the Arduino an
 
 The "RealTerm" folder contains .txt files with raw data from both accelerometers. This data is used to configure the sensitivity and offset of each instrument.
 
-## Contribution
+## Contribution 🤝
 
 If you wish to contribute to this project, please feel free to do so. You can make improvements to the code, add new features, or report issues.
-
 
 This project serves as an example of how to utilize accelerometers and microcontrollers for human gait tracking. If you have any questions or need further technical information, do not hesitate to ask.
