@@ -1,4 +1,4 @@
-# Walk-Cycle: Human Gait Tracking System 🚶‍♂️📊
+# Walk-Cycle: Human Gait Tracking System
 
 This project combines hardware and software to track human gait using accelerometers and an Arduino. It provides a Java-based graphical interface for real-time data visualization.
 
